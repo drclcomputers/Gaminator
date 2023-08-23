@@ -13,7 +13,7 @@ Currently, it includes 5 games:
    ![IMG_20230823_173154](https://github.com/drclcomputers/Gaminator/assets/132164125/c828d0d9-1d48-4d95-a6bc-713e0fd45b71)
 
 4. Space Battle - Protect yourself as the asteroids fly towards you
-   ![Uploading IMG_20230823_173314.jpg…]()
+   ![IMG_20230823_173314](https://github.com/drclcomputers/Gaminator/assets/132164125/6a5b1aba-4053-40a1-92d7-e92e32b9f87e)
 
 5. Alien Outbreak - Avoid aliens' lasers and try to destroy them
    ![IMG_20230823_172254](https://github.com/drclcomputers/Gaminator/assets/132164125/f355b25f-8042-47f6-939b-bd409e4ef80a)
