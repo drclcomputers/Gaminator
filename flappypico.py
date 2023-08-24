@@ -251,6 +251,8 @@ if __name__=='__main__':
                     tx.pop(0)
                     ty.pop(0)
                     taux.pop(0)
+            if (yp>tx[0] or yp<tx[0]+60) and taux[0]>110 and taux[0]<113 and taux[1]>110 and taux[1]<113:
+                score+=1
             if (yp<tx[0] or yp>tx[0]+60) and taux[0]>100 and taux[0]<120 and taux[1]>100 and taux[1]<120:
                     time.sleep(1)
                     run=False
@@ -272,8 +274,6 @@ if __name__=='__main__':
                             break
                         if keyX.value()==0:
                             machine.reset()
-            if (yp>tx[0] or yp<tx[0]+60) and taux[0]>110 and taux[0]<113 and taux[1]>110 and taux[1]<113:
-                score+=1
         
         LCD.text(("Score: "+str(score)), 160, 10, LCD.white)
         LCD.show()
